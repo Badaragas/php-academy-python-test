@@ -2,3 +2,5 @@
 php-academy-python-test
 
 INITIAL COMMIT
+
+TEST WEB EDITION
